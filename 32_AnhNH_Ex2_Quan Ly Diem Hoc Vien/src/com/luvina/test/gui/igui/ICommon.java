@@ -1,11 +1,11 @@
 /**
- * @Project_Name 32_Day 27_Ex2_RGB Color
+ * @Project_Name 32_AnhNH_Ex2_Quan Ly Diem Hoc Vien
  */
-package com.luvina.btvn.gui.icommon;
+package com.luvina.test.gui.igui;
 
 /**
  * @author Hoang Anh
- * @since 20 thg 1, 2021
+ * @since 18 thg 1, 2021
  * @version 1.0
  */
 public interface ICommon {
